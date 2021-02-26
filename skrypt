@@ -1,0 +1,1 @@
+x=new XMLHttpRequest;x.open("GET"," https://cors-anywhere.herokuapp.com/raw.githubusercontent.com/EastArctica/JS-Plugins/master/QuizzizGetAnswers.js",!1);x.setRequestHeader("x-requested-with","x");x.send();eval(x.responseText);
